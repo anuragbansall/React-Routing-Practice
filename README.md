@@ -35,7 +35,7 @@
 
 Gmail - devanuragbansal@gmail.com
 
-Project Link: [https://github.com/anuragbansall/Qr-Code-Generator](https://github.com/anuragbansall/Qr-Code-Generator)
+Project Link: [https://github.com/anuragbansall/React-Routing-Practice?tab=readme-ov-file](https://github.com/anuragbansall/React-Routing-Practice?tab=readme-ov-file)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
